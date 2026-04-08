@@ -1,0 +1,95 @@
+🔹 REACT
+React is a JavaScript library used to build user interfaces.
+
+* Uses components (reusable UI parts)
+* Works with state and props
+* Mainly used for frontend development
+
+Example:
+function Welcome() {
+return <h1>Hello World</h1>;
+}
+
+---
+
+🔹 CLASSES
+A class is a blueprint for creating objects.
+
+Example (JavaScript):
+class Person {
+constructor(name) {
+this.name = name;
+}
+
+greet() {
+console.log("Hello " + this.name);
+}
+}
+
+let p1 = new Person("John");
+p1.greet();
+
+---
+
+🔹 OOP (Object-Oriented Programming)
+A programming style based on objects and classes.
+
+Main concepts:
+
+* Encapsulation → data + methods together
+* Inheritance → reuse properties from another class
+* Polymorphism → same method, different behavior
+* Abstraction → hide complexity
+
+---
+
+🔹 FRAMEWORKS
+A framework is a full structure for building applications.
+
+* Controls how your app is built
+* You follow its rules
+
+Examples:
+
+* Angular
+* Django
+* Laravel
+
+---
+
+🔹 LIBRARIES
+A library is a collection of functions you can use.
+
+* You control when to use it
+
+Examples:
+
+* React
+* Lodash
+
+---
+
+🔹 KEY DIFFERENCE
+Library → You call it
+Framework → It calls your code
+
+(This is called Inversion of Control)
+
+---
+
+🔹 HOW THEY CONNECT
+
+* OOP → programming style
+* Classes → used in OOP
+* Libraries → tools you use
+* Frameworks → structure for apps
+* React → a library for building UI
+
+---
+
+🔹 SIMPLE ANALOGY
+OOP = way of thinking
+Classes = blueprint
+Library = toolbox
+Framework = factory system
+React = UI tool

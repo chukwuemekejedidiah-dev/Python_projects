@@ -1,0 +1,20 @@
+Start
+
+Input a number from the user and store it in "number".
+
+Convert the input to a floating-point number.
+
+Calculate the square of the number: square = number x number (or number ^ 2).
+
+Check conditions:
+
+If number is greater than or equal to 100 and square greater than or equal to 100
+ Print: "Both the number and its square are greater than or equal to 100."
+
+Else if number lees than 100 and square less than 100
+ Print: "Both the number and its square are less than 100."
+
+Else
+ Print: "One is greater than or equal to 100 and the other is less than 100."
+
+End

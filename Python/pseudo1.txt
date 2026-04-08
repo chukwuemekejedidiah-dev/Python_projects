@@ -1,0 +1,20 @@
+Start
+
+Input the first number and store it as num1.
+Input the second number and store it as num2.
+Input the third number and store it as num3.
+
+Convert num1, num2, and num3 to integers.
+
+Calculate the sum: sum = num1 + num2 + num3.
+Calculate the average: average = sum / 3.
+Calculate the product: product = num1 * num2 * num3.
+Determine the maximum of the three numbers and store it in maximum.
+Determine the minimum of the three numbers and store it in minimum.
+
+output sum
+output average 
+output product 
+output maximum
+output minimum
+End
