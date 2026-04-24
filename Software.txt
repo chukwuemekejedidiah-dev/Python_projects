@@ -1,0 +1,45 @@
+Software is the set of instructions and data that tells a computer or phone what to do. 
+Unlike hardware you can touch, software is intangible. It’s the programs, apps, and 
+operating systems that make devices useful.
+
+Five Types of Software
+1. System Software
+   Manages hardware and lets other software run.
+   Examples: Windows 11, macOS Sonoma, Android 15, Linux Ubuntu, iOS 18
+
+2. Application Software
+   Does specific tasks for the user.
+   Examples: Microsoft Word, WhatsApp, Adobe Photoshop, VLC Media Player, Chrome
+
+3. Utility Software
+   Maintains, analyzes, and optimizes the computer.
+   Examples: Avast Antivirus, WinRAR, CCleaner, Disk Defragmenter, File Explorer
+
+4. Programming Software
+   Tools developers use to write code.
+   Examples: VS Code, Python, Git, Android Studio, GCC Compiler
+
+5. Driver Software
+   Lets the OS talk to hardware devices.
+   Examples: NVIDIA Graphics Driver, Printer Driver, Bluetooth Driver, Audio Driver, USB Driver
+
+Mobile vs Desktop App Design Differences   
+1. Screen Size
+   Mobile: Small, vertical screens. Must prioritize content.
+   Desktop: Large, landscape screens. Can show more at once.
+
+2. Input Method
+   Mobile: Touch, swipes, gestures. Big buttons for fingers.
+   Desktop: Mouse + keyboard. Precise clicks, hover states, keyboard shortcuts.
+
+3. Layout
+   Mobile: Single-column, stacked content, bottom nav bars.
+   Desktop: Multi-column, sidebars, top menu bars, multiple windows.
+
+4. Performance & Resources
+   Mobile: Limited battery, CPU, RAM. Apps must be lightweight.
+   Desktop: More power. Can handle heavy tasks like video editing.
+
+5. Context of Use
+   Mobile: Used on-the-go, short sessions, frequent interruptions.
+   Desktop: Used at a desk, longer focused sessions, multitasking.
