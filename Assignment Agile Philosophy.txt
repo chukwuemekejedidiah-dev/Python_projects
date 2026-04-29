@@ -1,0 +1,37 @@
+Assignment: Agile Philosophy
+
+1. Explain what you understand of the Agile philosophy
+
+Agile is a mindset for building things, especially software, based on the idea that change is normal and rigid plans often fail.
+
+Key ideas:
+1. Work in small chunks — Build a small piece, show it, get feedback, then improve. This is done in short cycles called sprints, usually 1-4 weeks.
+2. People over paperwork — Direct conversation with teammates and customers is more valuable than long documents that nobody reads.
+3. Working product over perfect plans — Delivering something users can actually use today is better than a perfect system that ships next year.
+4. Adapt fast — If customer needs or market conditions change, the team changes with them instead of sticking to an outdated plan.
+
+Goal: Deliver useful value early, keep improving based on feedback, and avoid wasting time building features nobody wants. This comes from the Agile Manifesto created in 2001.
+
+2. Real-life scenarios of the four Agile values in effect
+
+Value 1: Individuals and interactions over processes and tools
+Scenario: A bank’s mobile app team has a rule that all bug reports must go through Jira to the team lead to a developer. This takes 3 days. A developer sees customers complaining about login failures on Twitter.
+Agile in effect: The developer walks over to the backend engineer, shows the tweets, and they fix the bug in 2 hours. They update Jira afterward.
+Why it’s Agile: Direct human interaction solved the real user problem faster than the official process and tool.
+
+Value 2: Working software over comprehensive documentation
+Scenario: Two student teams have a school project. Team A spends 3 weeks writing a 40-page requirements document. Team B builds a basic login and course registration page in 1 week and demos it to the lecturer.
+Agile in effect: The lecturer tests Team B’s app and requests changes like matric number validation. Team B adds it in 2 days. Team A is still finalizing their document.
+Why it’s Agile: Team B delivered something real that could be tested and improved. Documentation is useful, but working software provides actual value first.
+
+Value 3: Customer collaboration over contract negotiation
+Scenario: A client contracts a startup to build an e-commerce site with a blue theme and 10 product categories in 3 months. After 1 month, the client sees a demo and realizes they need a red theme to match their brand and only 3 categories for mobile users.
+Agile in effect: Instead of refusing because “it’s not in the contract,” the startup adjusts the theme and categories in the next 2-week sprint. They hold weekly demos for feedback.
+Why it’s Agile: Collaborating with the customer as needs change creates a better product than strictly enforcing the original contract.
+
+Value 4: Responding to change over following a plan
+Scenario: A team is building a food delivery app for Lagos with a 6-month plan that includes free delivery, based on fuel at 600 naira per litre. One month in, fuel rises to 1200 naira and riders start quitting.
+Agile in effect: In the next 2-week sprint, the team drops free delivery, adds a delivery fee calculator, and introduces a pickup option. They release this immediately.
+Why it’s Agile: The team responded to a real-world change instead of following a plan that no longer made sense.
+
+Summary: Agile means take small steps, talk to people, ship real working products, and adapt quickly when things change.
