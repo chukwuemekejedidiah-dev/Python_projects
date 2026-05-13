@@ -1,0 +1,18 @@
+OOP
+ 
+Object Oriented Programming is a way of organizing code using objects to represent real world entities and their behaviours 
+
+Objects has attributes that has specific data and can perform actions using methods 
+
+With OOP:
+1. you can organize code into classes and objects
+2. it supports encapsulation to group datat and methods together
+3. it enables inheritance for useability and heirarchy
+4. it allows polymorphism for flexible methods implementation 
+5. it improves modularity, scalability and mantainability
+
+A class is a blueprint of an object 
+An object is the instance of a class
+
+
+Pillars of OOP 
