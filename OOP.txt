@@ -16,3 +16,7 @@ An object is the instance of a class
 
 
 Pillars of OOP 
+1. Inheritance 
+2. Polymorphism
+3. Encapsulation
+4. Abstraction

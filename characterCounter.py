@@ -11,3 +11,6 @@ def character_counts_with_ascii():
             print(f"  {letter} {counts[letter]}")
 
 character_counts_with_ascii()
+
+
+

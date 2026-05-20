@@ -12,5 +12,6 @@
 # print(combine_lists(first_list, second_list))
 
 
-for i in range(1,21):
-    print("Hello world")
+# for i in range(1,21):
+#     print("Hello world")
+

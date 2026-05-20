@@ -1,0 +1,88 @@
+OBJECT ORIENTED PROGRAMMING IN PYTHON
+
+Introduction to OOP
+Object Oriented Programming is a paradigm based on the concept of objects. Objects combine data called attributes and behavior called methods. The purpose of OOP is to make code modular, reusable, scalable, and easier to maintain. Python supports OOP alongside other paradigms.
+
+Basic Terminology
+Class: A blueprint for creating objects, defined using the class keyword.
+Object: An instance of a class, representing a real-world entity.
+Attributes: Variables that belong to an object. They can be instance attributes unique to each object or class attributes shared across all instances.
+Methods: Functions defined inside a class that describe the behavior of the object.
+Constructor: A special method called __init__ used to initialize object attributes.
+self: Refers to the current instance of the class.
+
+Four Pillars of OOP
+Encapsulation: Bundling data and methods together while restricting direct access to internal state. Achieved using private attributes and controlled access through getters and setters.
+Inheritance: Mechanism to create new classes based on existing ones. Promotes code reuse. Types include single inheritance, multiple inheritance, multilevel inheritance, hierarchical inheritance, and hybrid inheritance.
+Polymorphism: Ability of different classes to provide different implementations of the same method. Achieved through method overriding and operator overloading.
+Abstraction: Hiding implementation details and exposing only essential features. Achieved using abstract base classes and abstract methods.
+
+Accessors and Mutators
+Accessor or Getter: Method that retrieves the value of an attribute.
+Mutator or Setter: Method that updates the value of an attribute.
+In Python, these can be implemented using normal methods or with the property decorator for more natural syntax.
+
+Special Methods
+__init__: Constructor method.
+__str__: Defines string representation of an object.
+__repr__: Defines official string representation.
+__len__: Defines behavior of len function.
+__add__: Defines behavior of addition operator.
+These methods integrate objects with Python’s built-in operations.
+
+Advanced OOP Concepts
+Multiple Inheritance: A class can inherit from multiple parent classes.
+Mixins: Lightweight classes that add specific functionality.
+Method Resolution Order: Determines the order in which base classes are searched.
+Dataclasses: Simplify class creation for data storage.
+Metaclasses: Classes of classes, controlling class creation.
+
+Encapsulation in Detail
+Public members: Accessible from anywhere.
+Protected members: Indicated by a single underscore, intended for internal use.
+Private members: Indicated by double underscore, name-mangled to prevent direct access.
+
+Inheritance in Detail
+Single Inheritance: One parent class.
+Multiple Inheritance: Multiple parent classes.
+Multilevel Inheritance: Chain of inheritance.
+Hierarchical Inheritance: Multiple child classes from one parent.
+Hybrid Inheritance: Combination of multiple types.
+
+Polymorphism in Detail
+Compile time polymorphism: Achieved via operator overloading.
+Runtime polymorphism: Achieved via method overriding.
+Example: Different classes implementing the same interface method differently.
+
+Abstraction in Detail
+Abstract Class: Cannot be instantiated, only subclassed.
+Abstract Method: Declared but not implemented in the base class.
+Python Implementation: Using abc module and abstractmethod decorator.
+
+Design Principles in OOP
+DRY Principle: Do not repeat yourself.
+SOLID Principles:
+Single Responsibility Principle
+Open Closed Principle
+Liskov Substitution Principle
+Interface Segregation Principle
+Dependency Inversion Principle
+
+Comparison Table
+Class: Blueprint for objects
+Object: Instance of class
+Encapsulation: Restrict direct access
+Inheritance: Reuse parent class features
+Polymorphism: Same method different behavior
+Abstraction: Hide details show essentials
+
+Exam Tips
+Memorize definitions of the four pillars.
+Practice writing small programs for each concept.
+Understand special methods and their uses.
+Be able to explain encapsulation with getters and setters.
+Review inheritance and polymorphism examples.
+Know how abstraction is implemented in Python.
+
+Summary
+Object Oriented Programming in Python is built around classes and objects. Its four pillars Encapsulation, Inheritance, Polymorphism, and Abstraction form the foundation for designing robust, reusable, and scalable software. Mastery of these concepts, along with practical implementation details like getters, setters, constructors, and special methods, is essential for exams and real-world programming.
