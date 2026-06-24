@@ -15,3 +15,49 @@
 # for i in range(1,21):
 #     print("Hello world")
 
+# count = 2
+# while count <= 10:
+#     print(f"{count} is even")
+#     count += 2
+
+
+# number 1
+
+# for i in range(1,11):
+#   print(i)
+
+
+ # number 2
+# for i in range(10, 0, -1):   
+  print(i)
+
+# number 3
+# count = 2
+
+# while count <= 20:
+#   print(f"{count} is an even number")
+#   count += 2
+
+
+# number 4
+# count = 1
+
+# while count <= 20:
+#    print(f"{count} is an odd number")
+#    count += 2
+
+
+
+# number 5
+# number = int(input("Enter the number of terms: "))
+# previous = 0
+# current = 1
+# sum = 0
+
+# for _ in range(number):
+#     sum += current
+#     next = previous + current
+#     previous = current
+#     current = next
+
+# print(sum)   

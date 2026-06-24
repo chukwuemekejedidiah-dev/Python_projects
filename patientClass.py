@@ -43,4 +43,40 @@ patient1.age = 26
 patient1.illness = "Typhoid"
 
 print("\nUpdated Patient Information")
-patient1.display_info() 
+patient1.display_info()
+
+
+
+#
+# from abc import ABC, abstractmethod
+#
+# class Animal(ABC):
+#     @abstractmethod
+#     def make_sound(self):
+#         pass
+
+
+# class Dog(Animal):
+#     def make_sound(self):
+#         print(f"{self.__class__.__name__} makes the sound 'woof'")
+#
+#
+# class Cat(Animal):
+#     def make_sound(self):
+#         print(f"{self.__class__.__name__} makes the sound 'meow'")
+#
+#
+# class Goat(Animal):
+#     def make_sound(self):
+#         print(f"a {self.__class__.__name__} makes the sound 'bleat'")
+#
+#
+# class Human(Animal):
+#     def make_sound(self):
+#         print(f" a {self.__class__.__name__} makes the sound 'Hello'")
+#
+#
+# if __name__ == "__main__":
+#     animals = [Dog(), Cat(), Goat(), Human()]
+#     for animal in animals:
+#         animal.make_sound()

@@ -15,5 +15,13 @@
 
 
 
-number = int(input("Enter a number: ")) 
-print("The number is even" if number % 2 == 0 else "The number is odd")
+# number = int(input("Enter a number: ")) 
+# print("The number is even" if number % 2 == 0 else "The number is odd")
+
+
+# object = input("Enter a word: ")
+# reversed_object = object[::-1]
+# if object == reversed_object:
+#   print("The object is a palindrome")
+# else:
+#   print("The object is not a palindrome")
